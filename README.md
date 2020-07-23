@@ -1,1 +1,1 @@
-# cubic-pagination
+# a template for a cube like effect when we move betwween differrent pages of a website
